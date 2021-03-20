@@ -1,6 +1,6 @@
 ## Hi there 👋 this is Megha
 
-- 🔭 I’m currently working on Team Technical Affairs,NITJ Website
+/*🔭 I’m currently working on Team Technical Affairs,NITJ Website*/
 - 🌱 I’m currently learning Android app development with Firebase
 - 👯 I’m looking to collaborate on Android applications(Kotlin) and frontend Web development projects
 - 😄 Pronouns: She/Her
