@@ -1,8 +1,8 @@
 ## Hi there 👋 this is Megha
 
 <!-- - 🔭 I’m currently working on Team Technical Affairs,NITJ Website-->
-- 🌱 I’m currently learning Android app development with Firebase
-- 👯 I’m looking to collaborate on Android applications(Kotlin) and frontend Web development projects
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👯 I’m looking to collaborate on Web development projects(frontend)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Acting and watching late night movies is something I love
 <!-- 💬 Let's talk about -->
