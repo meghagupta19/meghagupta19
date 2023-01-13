@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghagupta19&langs_count=12&count-private=true&layout=compact)](https://github.com/meghagupta19/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=meghagupta19&theme=calm&show_icons=true&count_private=true)    
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=meghagupta19&theme=calm&show_icons=true&count_private=true)-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meghagupta19)  
