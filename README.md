@@ -12,7 +12,7 @@
 ### Languages and Tools:
 <img src='https://img.icons8.com/color/48/000000/android-os.png' alt='github' height='40'>  <img src='https://img.icons8.com/color/48/000000/kotlin.png' alt='github' height='40'>   <img src='https://img.icons8.com/color/48/000000/google-firebase-console.png' alt='github' height='40'>  <img src='https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png' alt='github' height='40'>  <img src='https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-128.png' alt='github' height='40'>  <img src='https://img.icons8.com/color/48/000000/javascript.png' alt='github' height='40'>  <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png' alt='github' height='40'>  <img src='https://img.icons8.com/color/48/000000/c-programming.png' alt='github' height='40'>  <img src='https://img.icons8.com/color/48/000000/c-plus-plus-logo.png' alt='github' height='40'> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghagupta19&langs_count=10&count-private=true&layout=compact)](https://github.com/meghagupta19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghagupta19&langs_count=12&count-private=true&layout=compact)](https://github.com/meghagupta19/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meghagupta19&theme=calm&show_icons=true&count_private=true)    
 
