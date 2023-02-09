@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on Team Technical Affairs,NITJ Website-->
 - 🌱 I’m currently learning Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on Web development projects(frontend)
+- 👯 I’m looking to collaborate on Web development projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Acting and watching late night movies is something I love
 <!-- 💬 Let's talk about -->
@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghagupta19&langs_count=12&count-private=true&layout=compact)](https://github.com/meghagupta19/github-readme-stats)
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=meghagupta19&theme=calm&show_icons=true&count_private=true)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=meghagupta19&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meghagupta19)  
